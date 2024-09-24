@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988399827570",
+    "project_id": "ovumb-notification",
+    "storage_bucket": "ovumb-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988399827570:android:0fab23f15200ec0170a0eb",
+        "android_client_info": {
+          "package_name": "com.tmsc.ovumb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_7oz0Fbyq3eX-_cqH1pDJcwDKEziQlRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
